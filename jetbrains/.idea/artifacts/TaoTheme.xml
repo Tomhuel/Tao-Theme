@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TaoTheme">
+    <output-path>$PROJECT_DIR$/out/artifacts/TaoTheme</output-path>
+    <root id="archive" name="TaoTheme.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>

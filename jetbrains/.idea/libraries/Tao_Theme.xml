@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Tao-Theme">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Tao_Theme_jar/Tao-Theme.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
